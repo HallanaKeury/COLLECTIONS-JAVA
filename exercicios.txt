@@ -1,0 +1,19 @@
+Exercício de collectios java
+
+1 - Faça um programa que receba a temperatura média dos 6 primeiros meses do ano
+e armazene-as em uma lista.
+Após isso, calcule a média semestral das temperaturas e mostre todas as temperaturas acima desta média, e em que mês elas ocorreram 
+(mostrar mês por extenso: 1 - Janeiro, Fevereiro ...)
+
+
+2 - Utilizando listas, faã um programa que faça 5 perguntas para uma pessoa sobre um crime. As perguntas são:
+Telefonou para a vitima?
+Esteve no local do crime?
+Mora perto da vitima?
+Devia para a vitima?
+Já trabalhou com a vitima?
+
+
+Se a pessoa responder positivamente a 2 questões ela deve ser classificada como suspeita
+, entre 3 e 4 como cúmplice e 5 assassina. Caso contrário ela será classificada como inocente.
+
